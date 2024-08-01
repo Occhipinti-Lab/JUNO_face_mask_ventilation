@@ -11,7 +11,7 @@ The repository contains 3 main scripts:
 
 ## How to run
 The following steps are required to run the code:
-<li> Python 3.9.x and R version 4.2.x are required, a check on the specification for the used packages (requirement.txt) is required before running the code. </li>
+<li> Python 3.9.x and R version 4.2.x are required. </li>
 <li> Ensure all pip dependencies are installed as listed in requirements.txt. </li>
 
 
